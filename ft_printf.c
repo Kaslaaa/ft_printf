@@ -57,15 +57,3 @@ int	ft_printf(const char *format, ...)
 	va_end(args);
 	return (len);
 }
-/*int main(void)
-{
-	//ft_printf("Hello %c Uwu", 'a');
-	//ft_printf("%s", "Hello");
-	//ft_printf("HI %i", -4321);
-	//ft_printf("%u", 388019);
-	//ft_printf("%%");
-	//ft_print_str("llo \n UwU");
-	//ft_printf(" %x \n %s \n %c ", 13, "Heyyyy", 'a');
-	//ft_printf(" %x ", 9);
-	return (0);
-}*/
